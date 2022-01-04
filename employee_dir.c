@@ -94,7 +94,7 @@ void login()
             printf("\n  #--------------------------  ERROR  --------------------------# ");
             printf("\n  !!!                                                         !!! ");
             printf("\n  !!!        Directory Locked, too many wrong attempts        !!! ");
-            printf("\n  !!!                Please read README.txt and               !!! ");
+            printf("\n  !!!                 Please read info.txt and                !!! ");
             printf("\n  !!!                  re-execute the program                 !!! ");
             printf("\n  !!!                                                         !!! ");
             printf("\n  #-------------------------------------------------------------# \n");
