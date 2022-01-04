@@ -10,11 +10,11 @@ A command-line C application to log and edit employee details using .dat file ma
 
 ## How to use
 
-### .exe file (Recommended)
+### Executable file (Recommended)
 1. Open `employee_dir.exe`
 2. In case a dialog box appears, click on **Run anyways**
 
-### CodeBlocks
+### Code::Blocks
 1. Download and Install [Code::Blocks](http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (mingw-setup.exe)
 2. Open `employee_dir.c` in Code::Blocks
 3. Click on the **Build and Run** button below the menu bar
