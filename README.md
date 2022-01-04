@@ -10,6 +10,8 @@ A command-line C application to log and edit employee details using .dat file ma
 
 ## How to use
 
+*IMPORTANT: Firstly, go through `info.txt`*
+
 ### Executable file (Recommended)
 1. Open `employee_dir.exe`
 2. In case a dialog box appears, click on **Run anyways**
@@ -19,7 +21,7 @@ A command-line C application to log and edit employee details using .dat file ma
 2. Open `employee_dir.c` in Code::Blocks
 3. Click on the **Build and Run** button below the menu bar
 
-***IMPORTANT: Only compatible with Windows 7 and above***<br/>
+***Only compatible with Windows 7 and above***<br/>
 *MacOS and Linux are not supported due to header file constraints*
 
 ## Submitted by
