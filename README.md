@@ -20,7 +20,7 @@ A command-line C application to log and edit employee details using .dat file ma
 3. Click on the **Build and Run** button below the menu bar
 
 ## Submitted by
-[Johan Mathew Joseph
-Reg. No: RA2111026010309
-Section: R2
+[Johan Mathew Joseph<br/>
+Reg. No: RA2111026010309<br/>
+Section: R2<br/>
 Branch: CSE with specialization in AI and ML](https://github.com/johanjoseph02)
