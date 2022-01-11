@@ -21,8 +21,7 @@ A command-line C application to log and edit employee details using .dat file ma
 2. Open `employee_dir.c` in Code::Blocks
 3. Click on the **Build and Run** button below the menu bar
 
-***Only compatible with Windows 7 and above***<br/>
-*MacOS and Linux are not supported due to header file constraints*
+***Compatible with Windows 7 and above***<br/>
 
 ## Submitted by
 [Johan Mathew Joseph<br/>
